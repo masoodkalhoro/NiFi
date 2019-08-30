@@ -7,4 +7,5 @@ At the very least, each of them have been successfully imported into an Apache N
 
 # Contributing
 All templates are welcome to be added to this directory. In the future there is the goal to have 100% coverage of processors and controller services. If you have a template you'd like to add just open a pull request.
-# Try to create these flows your self than only you will to underdand the logics
+
+Try to create these flows your self than only you will to underdand the logics
